@@ -1,0 +1,10 @@
+Guardar en parameters.json  
+
+
+Ejemplo de curl:
+
+curl --user "apikey:wwGEwtLecmdFF1RJ1nQUjVRCU2YHoU1lfXORb57cV4qP" \
+"https://gateway.watsonplatform.net/natural-language-understanding/api/v1/analyze?version=2019-07-12" \
+--request POST \
+--header "Content-Type: application/json" \
+--data @parameters.json

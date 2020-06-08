@@ -1,0 +1,14 @@
+Empleado: Buen día, habla Marco. ¿Cómo puedo ayudarle?
+Cliente: Buenos días, habla Amat. Quiero cambiar mi paquete
+Empleado: seguro, puedo ayudarte. ¿Desea cambiar el paquete para el viaje en el que está ahora?
+Cliente: Así es
+Empleado: para fines de verificación me podría indicar su fecha de nacimiento y correo electrónico Id
+Cliente: Mi dia de nacimiento es el 10 de agosto de 1979 y mi ID de correo electrónico es anand@gmail.com
+Empleado : ¿A qué paquete desea migrar?
+Cliente: Al paquete premium
+Empleado: ¿Me podría decir el nombre de su hotel y su numero de identificación
+CLiente: estoy en Camino Real y mi numero de identificación es 12345
+Empleado: OK.. He tomado su solicitud para migrarse. Obtendrá una actualización en 3 horas. ¿Hay algo más que pueda ayudarte?
+Cliente: No
+Empleado: Gracias por llamar a ViajesCom. Que tengas un buen día.
+Cliente: Igualmente

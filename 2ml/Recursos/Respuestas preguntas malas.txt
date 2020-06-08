@@ -1,0 +1,11 @@
+El objeto estimador es entrenar un modelo
+es un API el modelo ya entrenado 
+se puede hacer para predecir
+
+
+¿Cómo optimizar los hiper-parámetros  de gradient boosting trees?
+
+-Fijar alto learning rate
+-Fijar parametros en arboles
+Elejir e mejor numero de estimadores que conforman el ensembe
+-Con el learning raate y el numero de estimadores optimizar los parametros

@@ -1,0 +1,14 @@
+Empleado: Hola mi nombre es Daniela, Como puedo ayudarle
+Cliente: Soy Carlos. Quiero reportar un problema en mi aplicación
+Empleado: Por seguridad necesitamos verificar algunos datos, esta bien
+Cliente: No hay problema
+Empleado: Cual es su fecha de nacimiento y su email
+Cliente: 09/08/1990 y mi mail es carlos@gmail.com
+Empleado: Gracias por la informacion. Puede explicarme cual es el problema
+Cliente: La aplicación es inestable, se cierra y no se da continuidad a mis reservas
+Empleado: Puede confirmarme su dirección
+Cliente: av. vasco de quiroga 1999
+Empleado: Gracias por la confirmacion, señor. Subire un ticket para dar seguimiento a su error en la aplicación. ¿Hay algo mas que pueda hacer por usted?
+Cliente: No
+Empleado: Gracias por llamar a ViajesCom. Que tenga un buen dia
+Cliente: Usted tambien

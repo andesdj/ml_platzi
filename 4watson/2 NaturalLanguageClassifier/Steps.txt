@@ -1,0 +1,28 @@
+API  F59IO8fgY81pLEOwjo4Sw1ownsgLZ6uOvLhNSE8Q17BF
+URL  https://api.us-south.natural-language-classifier.watson.cloud.ibm.com/instances/c94648e6-fea8-4890-b470-356bf93ebdbb
+
+curl -i -u "apikey:F59IO8fgY81pLEOwjo4Sw1ownsgLZ6uOvLhNSE8Q17BF" \
+-F training_data=@data_train_platzi.csv \
+-F training_metadata="{\"language\":\"es\",\"name\":\"TutorialClassifier\"}" \
+"https://api.us-south.natural-language-classifier.watson.cloud.ibm.com/instances/c94648e6-fea8-4890-b470-356bf93ebdbb/v1/classifiers"
+
+
+Guardar el ID clasificador
+
+
+RETURN Clasiffier ID
+c287dbx733-nlc-52
+
+PARA COMPROBAR  ESTADO CLASIFICADOR
+
+curl -u "apikey:F59IO8fgY81pLEOwjo4Sw1ownsgLZ6uOvLhNSE8Q17BF" \
+"https://api.us-south.natural-language-classifier.watson.cloud.ibm.com/instances/c94648e6-fea8-4890-b470-356bf93ebdbb/v1/classifiers/c287dbx733-nlc-52"
+
+
+
+
+COmo esta el Entrenado el NLC
+
+curl -G -u "apikey:F59IO8fgY81pLEOwjo4Sw1ownsgLZ6uOvLhNSE8Q17BF" \
+"{url}/v1/classifiers/{classifier_id}/classify" \
+--data-urlencode "text=How hot will it be today?"

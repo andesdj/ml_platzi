@@ -1,0 +1,89 @@
+Ejemplo con url
+
+curl -X POST -u "apikey:wwGEwtLecmdFF1RJ1nQUjVRCU2YHoU1lfXORb57cV4qP" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/c2a03b4e-ced9-45b5-bb0b-d0fe10bfd84d/v1/analyze?version=2018-11-16" \
+--header "Content-Type: application/json" \
+--data '{
+  "url": "https://www.eltiempo.com/bogota/coronavirus-en-bogota-las-diez-sorpresas-que-trae-el-nuevo-plan-de-desarrollo-de-claudia-lopez-491322",
+  "features": {
+    "sentiment": {},
+    "categories": {},
+    "concepts": {},
+    "entities": {},
+    "keywords": {}
+  }
+}'
+
+
+EJEMPLO PVD
+
+curl -X POST -u "apikey:wwGEwtLecmdFF1RJ1nQUjVRCU2YHoU1lfXORb57cV4qP" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/c2a03b4e-ced9-45b5-bb0b-d0fe10bfd84d/v1/analyze?version=2018-11-16" \
+--header "Content-Type: application/json" \
+--data '{
+  "url": "https://www.trance.es/entrevistas/entrevista-paul-van-dyk",
+  "features": {
+    "sentiment": {},
+    "categories": {},
+    "concepts": {},
+    "entities": {},
+    "keywords": {}
+  }
+}'
+
+
+EJEMPLO CLAB
+
+curl -X POST -u "apikey:wwGEwtLecmdFF1RJ1nQUjVRCU2YHoU1lfXORb57cV4qP" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/c2a03b4e-ced9-45b5-bb0b-d0fe10bfd84d/v1/analyze?version=2018-11-16" \
+--header "Content-Type: application/json" \
+--data '{
+  "url": "https://creativelab.digital/nosotros/",
+  "features": {
+    "sentiment": {},
+    "categories": {},
+    "concepts": {},
+    "entities": {},
+    "keywords": {}
+  }
+}'
+
+
+
+curl -X POST -u "apikey:wwGEwtLecmdFF1RJ1nQUjVRCU2YHoU1lfXORb57cV4qP" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/c2a03b4e-ced9-45b5-bb0b-d0fe10bfd84d/v1/analyze?version=2018-11-16" \
+--header "Content-Type: application/json" \
+--data '{
+  "url": "http://newsroom.ibm.com/Guerbet-and-IBM-Watson-Health-Announce-Strategic-Partnership-for-Artificial-Intelligence-in-Medical-Imaging-Liver",
+  "features": {
+    "sentiment": {},
+    "categories": {},
+    "concepts": {},
+    "entities": {},
+    "keywords": {}
+  }
+}'
+
+
+
+
+
+Ejemplo con texto
+
+curl -X POST -u "apikey:wwGEwtLecmdFF1RJ1nQUjVRCU2YHoU1lfXORb57cV4qP" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/c2a03b4e-ced9-45b5-bb0b-d0fe10bfd84d/v1/analyze?version=2018-11-16" \
+--request POST \
+--header "Content-Type: application/json" \
+--data '{
+  "text": "Ingeniero electronico con master de la Universidad Internacional de la Rioja con enfasis en analisis y visualizacion de datos masivos (BIG DATA), con mas de cuatro anos de experiencia en el campo IT como desarrollador de aplicaciones web frontend y backend, experiencia de dos anos en el area de e-learning. Formacion academica y habilidades en el uso de lenguajes de programacion: JavaScript, PHP, Python, arquitectura de software mediante el modelo MVC. Creacion, mantenimiento y manejo de bases de datos MySQL 5 y SQL Server 2008, conocimiento de bases de datos no relacionales como MongoDB, experiencia en desarrollo de aplicaciones empresariales del sector privado asociadas al diagnostico, tratamiento, analisis y visualizacion de datos, manejo y coordinacion de personal tecnico y operativo. ",
+  "features": {
+    "sentiment": {
+      "targets": [
+        "apples",
+        "oranges",
+        "broccoli"
+      ]
+    },
+    "keywords": {}
+  }
+}'

@@ -1,0 +1,10 @@
+service: default
+runtime: python37
+api_version: 1
+threadsafe: yes
+
+
+handlers:
+  url: .*
+  script: main.app
+  secure: always

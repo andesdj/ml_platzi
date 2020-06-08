@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a30f4d9-7e4b-4af7-8f96-ddb2c1dbb494" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YHR36lzfiC07FJffEto8A3Wide" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.3funciones">
+    <configuration name="1turtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\root\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1python/1turtle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2nombre" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1python/2nombre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3funciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1python/3funciones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3funciones" />
+        <item itemvalue="Python.1turtle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a30f4d9-7e4b-4af7-8f96-ddb2c1dbb494" name="Default Changelist" comment="" />
+      <created>1582597330881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582597330881</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="38" key="#1turtle" timestamp="1582597571111">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state x="465" y="38" key="#1turtle/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582597571111" />
+    <state width="1429" height="198" key="GridCell.Tab.0.bottom" timestamp="1582600927231">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state width="1429" height="198" key="GridCell.Tab.0.bottom/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582600927231" />
+    <state width="1429" height="198" key="GridCell.Tab.0.center" timestamp="1582600927230">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state width="1429" height="198" key="GridCell.Tab.0.center/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582600927230" />
+    <state width="1429" height="198" key="GridCell.Tab.0.left" timestamp="1582600927230">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state width="1429" height="198" key="GridCell.Tab.0.left/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582600927230" />
+    <state width="1429" height="198" key="GridCell.Tab.0.right" timestamp="1582600927230">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state width="1429" height="198" key="GridCell.Tab.0.right/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582600927230" />
+    <state width="1429" height="246" key="GridCell.Tab.1.bottom" timestamp="1582600924482">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state width="1429" height="246" key="GridCell.Tab.1.bottom/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582600924482" />
+    <state width="1429" height="246" key="GridCell.Tab.1.center" timestamp="1582600924482">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state width="1429" height="246" key="GridCell.Tab.1.center/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582600924482" />
+    <state width="1429" height="246" key="GridCell.Tab.1.left" timestamp="1582600924482">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state width="1429" height="246" key="GridCell.Tab.1.left/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582600924482" />
+    <state width="1429" height="246" key="GridCell.Tab.1.right" timestamp="1582600924482">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state width="1429" height="246" key="GridCell.Tab.1.right/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582600924482" />
+    <state x="234" y="66" key="SettingsEditor" timestamp="1582598282666">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state x="234" y="66" key="SettingsEditor/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582598282666" />
+    <state x="426" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1582597562294">
+      <screen x="0" y="31" width="1449" height="784" />
+    </state>
+    <state x="426" y="247" key="com.intellij.ide.util.TipDialog/1600.31.1237.665/0.31.1449.784@0.31.1449.784" timestamp="1582597562294" />
+  </component>
+</project>

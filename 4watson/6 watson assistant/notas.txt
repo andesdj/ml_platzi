@@ -1,0 +1,16 @@
+
+Recuerda que para manejar operaciones y logica dentro de assistant usamos:
+<? ?>
+
+Headers:
+
+model_id: es-en
+Content-Type : application/json
+
+Authorization:
+
+apikey
+
+Para manejar el texto escrito:
+
+input.text

@@ -1,0 +1,31 @@
+Empleado: Hola! Soy Juan. Como puedo ayudarle
+
+Cliente: Me llamo Isaac. Quiero cambiar mi paquete básico al premium
+
+Empleado: Claro. El numero que quiere cambiar al paquete premium es con el que está llamando
+
+Cliente: Si
+
+Empleado: Para propositos de verificacion le haré algunas preguntas, está de acuerdo
+
+Cliente: Esta bien
+
+Empleado: Cual es su fecha de nacimiento y su email
+
+Cliente: Mi fecha de nacimiento es 8 de febrero de 1994 y mi email es isaaccarrada@gmail.com
+
+Empleado:A que paquete quiere cambiarse
+
+Cliente: Paquete Xcaret premium
+
+Empleado: Cual es el nombre del hotel donde se hospeda y que dia ingreso
+
+Cliente: Me hospedo en Marriot e ingresé el 3 de Febrero de 2019
+
+Empleado: ok.. He tomado su solicitud de cambio. Tendra su paquete actualizado en 3 horas. ¿Hay algo mas en que pueda ayudarle?
+
+Cliente: No, gracias
+
+Empleado: Gracias por hablar a Celtel. Que tenga un buen dia
+
+Cliente: Gracias, igualmente

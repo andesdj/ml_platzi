@@ -1,0 +1,5 @@
+Model ID  Dsicovery
+77455b3a-85f8-44a7-a356-270984ec24b1
+
+Model ID  NLU
+f95cf3c7-404b-49d6-bc32-1cd5da8b5e3b
